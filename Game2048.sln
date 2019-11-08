@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game2048", "Game2048\Game2048.csproj", "{F145ED1C-F528-4450-A7A0-69AB1C3F264D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F145ED1C-F528-4450-A7A0-69AB1C3F264D}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{F145ED1C-F528-4450-A7A0-69AB1C3F264D}.Debug|anycpu.Build.0 = Debug|anycpu
+		{F145ED1C-F528-4450-A7A0-69AB1C3F264D}.Release|anycpu.ActiveCfg = Release|anycpu
+		{F145ED1C-F528-4450-A7A0-69AB1C3F264D}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
